@@ -1,0 +1,16 @@
+export const categories = [
+	'mobile',
+	'laptop',
+	'camera',
+	'headphone',
+	'speaker',
+	'ac',
+	'refrigerator',
+	'tv',
+	'washing machine',
+	'microwave',
+	'oven',
+	'printer',
+	'router',
+	'keyboard',
+]
